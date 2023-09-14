@@ -1,6 +1,6 @@
 [![Discord](https://discordapp.com/assets/e4923594e694a21542a489471ecffa50.svg)](https://discord.com/)
 
-# Règles sur les serveurs Discord 
+# Règles sur le serveur Discord de SecretLife Roleplay
 
 ## Règles généraux
 
