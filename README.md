@@ -53,7 +53,9 @@
 * PUSH TO TALK OBLIGATOIRE EN VILLE
 * Aucun bruit gênant, fort ou aigu, si votre micro panique, on vas vous mute
 * Réduisez la quantité de bruit de fond, si possible. (Activez le Noise Canceling (voir photo))
+  
 ![image](https://github.com/DooubleTap/SecretLife/assets/3772136/09750ce0-eaa9-4d87-b1bb-340765f79095)
+
 * Aucun soundboard qui agrèsse
 * Les modérateurs se réservent le droit de vous déconnecter ou mute d'un canal vocal si votre qualité sonore est mauvaise.
 * Les modérateurs se réservent le droit de déconnecter, de mettre en sourdine, d'assourdir ou de déplacer des membres vers et depuis les canaux vocaux.
