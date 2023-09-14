@@ -57,3 +57,5 @@
 * Aucun soundboard qui agrèsse
 * Les modérateurs se réservent le droit de vous déconnecter ou mute d'un canal vocal si votre qualité sonore est mauvaise.
 * Les modérateurs se réservent le droit de déconnecter, de mettre en sourdine, d'assourdir ou de déplacer des membres vers et depuis les canaux vocaux.
+
+Sans oublier de toujours respecté les termes et conditions de Discord: https://discord.com/terms
